@@ -1,0 +1,19 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(0, 0, 0);
+}
+
+.botao a img {
+    margin-top: 40px;
+    width: 490px;
+    height: 490px;
+    border-radius: 300px;
+    border: 1px solid black;
+}
+
+img {
+    width: 350px;
+}
